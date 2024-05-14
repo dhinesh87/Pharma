@@ -1,6 +1,6 @@
 # Ex 10 Project Responsive Web Design using Bootstrap
-## Name: ESHWAR T
-## Reg no:2122223230054
+## Name: DHINESH RAJ.M
+## Reg no:212223040040
 ## Date: 14-05-24
 ## AIM:
 To design a responsive website for a Pharmaceutical Company using Bootstrap.
