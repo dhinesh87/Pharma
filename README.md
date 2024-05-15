@@ -1,5 +1,5 @@
 # Ex 10 Project Responsive Web Design using Bootstrap
-## Name: DHINESH RAJ.M
+## Name: DHINESH .M
 ## Reg no:212223040040
 ## Date: 14-05-24
 ## AIM:
